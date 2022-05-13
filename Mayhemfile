@@ -1,0 +1,5 @@
+project: jacob-clemente/minih264
+target: minih264
+
+cmds:
+  - cmd: /minih264 @@
